@@ -1,4 +1,4 @@
 # TugasDelegateDanEvent #
 - Tugas Pertemuan 8 Mata Kuliah Pemrograman lanjut
-- Nama: Ariza Akmal Syahida
-- Nim: 21.11.4105
+- Nama: Shera Alice A
+- Nim: 21.11.4085
